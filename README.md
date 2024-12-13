@@ -11,3 +11,6 @@ This Python script generates a professional resume in PDF format. It leverages J
 1. Create a JSON file containing the necessary data named `data.jsonc`. please maintain the format mentioned in the `struct.jsonc` file.
 2. Add your images to the `imgs` directory. `This feature is not yet complete.`
 3. Run the script with the following command: `python main.py [input file] [output file]`
+
+> **Note**: <br>
+> Create all the files as `jsonc` not `json`.
