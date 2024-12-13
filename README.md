@@ -5,6 +5,7 @@ This Python script generates a professional resume in PDF format. It leverages J
 
 1. Install `python` and `pip` if you haven't done so already.
 2. Clone the repository: `git clone https://github.com/srijan-76448/DynamicCVGenerator.git`
+3. Navigate to the repository directory: `cd DynamicCVGenerator/src`
 
 ## Usage
 
