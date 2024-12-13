@@ -1,0 +1,33 @@
+{
+    "name": null,
+    "image": null,
+    "contacts": {
+        "behance": null,
+        "discord": null,
+        "facebook": null,
+        "instagram": null,
+        "linkedin": null,
+        "medium": null,
+        "pinterest": null,
+        "quora": null,
+        "reddit": null,
+        "stackoverflow": null,
+        "tiktok": null,
+        "twitch": null,
+        "x": null,
+        "youtube": null,
+        "codepen": null,
+        "mastodon": null,
+        "url": null,
+        "github": null,
+        "gmap": null,
+        "gmail": null
+    },
+    "summary": null,
+    "education": [],
+    "experience": [],
+    "achievements": [],
+    "skills": {},
+    "projects": [],
+    "connections": []
+}

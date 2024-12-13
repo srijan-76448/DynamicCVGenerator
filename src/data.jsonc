@@ -1,0 +1,132 @@
+{
+    "$STYLE": {
+        "Icon": "plastic"
+    },
+    "name": "Srijan Bhattacharyya",
+    "image": null,
+    "contacts": {
+        "github": "https://github.com/srijan-76448",
+        "linkedin": "https://www.linkedin.com/in/srijan76448/",
+        "gmap": "https://maps.app.goo.gl/b4eGEH8mBk1Cd837A",
+        "url": "https://srijan.76448.in",
+        "gmail": "mailto:srijan.76448@gmail.com",
+        "behance": null,
+        "discord": null,
+        "facebook": null,
+        "instagram": null,
+        "medium": null,
+        "pinterest": null,
+        "quora": null,
+        "reddit": null,
+        "stackoverflow": null,
+        "tiktok": null,
+        "twitch": null,
+        "x": null,
+        "youtube": null,
+        "codepen": null,
+        "telephone": null,
+        "mastodon": null
+    },
+    // "summary": "A dedicated and skilled B.Tech CSE student at MAKAUT, proficient in a wide range of programming languages, frameworks, and tools, including Python, C++, JavaScript, and various AI/ML libraries. Experienced in IoT projects and Linux-based systems, leveraging platforms like Raspberry Pi and Arduino. Keen to apply technical expertise in a corporate setting and eager to contribute to innovative projects.",
+    "summary": "I'm Srijan Bhattacharyya, a highly motivated computer science engineering student with a strong foundation in programming languages, frameworks, and operating systems. My passion lies in artificial intelligence, and I thrive on building user-friendly software solutions. I'm the driving force behind projects like ISHA, an AI-powered smart home assistant designed for inclusivity, and R-Top Linux, a custom-built operating system from scratch. These projects demonstrate my technical skills, leadership qualities, and unwavering commitment to innovation. I'm constantly pushing boundaries and striving to create impactful solutions. You can find more about my work and projects on my personal website: srijan.76448.in.",
+    "education": [
+        {
+            "institute": "Techno Main Salt Lake",
+            "duration": "2022-2026",
+            "degree": "Bachelors of Technology in Computer Science Engineering",
+            "CGPA": null,
+            "SGPA": "6.5+"
+        }
+    ],
+    "experience": null,
+    "achievements": null,
+    "skills": {
+        "Languages and Frameworks": [
+            "C",
+            "Python",
+            "C++",
+            "AssemblyScript",
+            "Lua",
+            "Markdown",
+            "PowerShell",
+            "BashScript",
+            "Django",
+            "OpenCV",
+            "Java",
+            "Node-RED"
+        ],
+        "Databases and Others": [
+            "GitHub",
+            "Git",
+            "GitLab",
+            "MySQL",
+            "Pi-Hole",
+            "Arduino",
+            "RaspberryPi",
+            "HomeAssistant",
+            "Twilio",
+            "AMD",
+            "Xbox"
+        ],
+        "Platforms and Operating Systems": [
+            "Windows",
+            "GNU",
+            "Linux",
+            "Unix"
+        ]
+    },
+    "projects": [
+        {
+            "name": "ISHA (Interactive Smart Home Assistant)",
+            "description": "*ISHA* is an innovative smart home assistant developed using Python. It integrates advanced features such as *Emotional Artificial Intelligence (EAI)* and a custom-built *LLM (RAI)* to provide a user-friendly and empathetic experience. Designed with a focus on inclusivity, ISHA aims to be particularly helpful for older adults, individuals with depression, and other vulnerable populations.",
+            "role": [
+                "Founding Developer",
+                "AIML Architect",
+                "Lead Developer",
+                "Software Engineer"
+            ]
+        },
+        {
+            "name": "R-Top Linux",
+            "description": "*R-Top Linux* is a custom-built 64-bit operating system developed from the ground up. Based on the *Linux from Scratch (LFS)* philosophy, it incorporates core functionalities such as *process management*, *memory management*, and *device drivers*. *R-Top Linux* features a versatile design, supporting both minimal (*i3wm*) and more resource-intensive (*KDE*) Graphical User Interfaces to cater to diverse hardware and user preferences.",
+            "role": [
+                "Founder & Lead Developer",
+                "OS Developer",
+                "OS Architect",
+                "UI/UX Designer for OS",
+                "Software Engineer",
+                "Kernel Developer"
+            ]
+        },
+        {
+            "name": "DynamicCVGenerator",
+            "description": "This Python script, generates a professional resume in PDF format. It leverages JSON data files to define user information, styles, and templates. The script processes this data, generates Markdown, and then converts it to a polished PDF document using wkhtmltopdf.",
+            "role": [
+                "Project Architect",
+                "Lead Developer",
+                "Data Architect",
+                "UI/UX Designer",
+                "System Integrator",
+                "Project Manager",
+                "Documentation Writer"
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "org": "IIC TMSL",
+            "position": "Tech Wing Member",
+            "duration": "2022-Present"
+        },
+        {
+            "org": "GLUG Kolkata",
+            "position": "Member",
+            "duration": "2022-Present"
+        },
+        {
+            "org": "Ark Tech Organization",
+            "position": "Marketing Lead",
+            "duration": "2022-Present"
+        }
+    ]
+}
