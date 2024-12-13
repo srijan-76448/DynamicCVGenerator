@@ -1,0 +1,11 @@
+{
+    "name": "DynamicCVGenerator",
+    "version": "14.12.2024",
+    "description": "This Python script, generates a professional resume in PDF format. It leverages JSON data files to define user information, styles, and templates. The script processes this data, generates Markdown, and then converts it to a polished PDF document using wkhtmltopdf.",
+    "author": ["Srijan Bhattacharyya"],
+    "git-url": "https://github.com/srijan-76448/DynamicCVGenerator",
+    "dependencies": {
+        "markdown": "markdown",
+        "pdfkit": "pdfkit"
+    }
+}
